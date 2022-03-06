@@ -8,7 +8,7 @@
 
 ![tudineroweb's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudineroweb&show_icons=true&theme=highcontrast)
 
-![tudineroweb's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tudineroweb&theme=blue-green)
+![tudineroweb's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tudineroweb&theme=highcontrast)
 
 ### programer in:
 
