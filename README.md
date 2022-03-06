@@ -10,6 +10,8 @@
 
 ![tudineroweb's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tudineroweb&theme=highcontrast)
 
+<!-- ![tudineroweb's Github stats](https://img.shields.io/github/downloads/tudineroweb/EsBTCv1.5/total.svg) -->
+
 ### programer in:
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
